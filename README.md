@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I'm Eren — a curious explorer, builder, and student-innovator on a mission to reimagine how technology works at its core.  
+Hey there! I'm Devanand — a curious explorer, builder, and student-innovator on a mission to reimagine how technology works at its core.  
 I don’t build things just to function. I build to challenge norms, fill the gaps others overlook, and push ideas way beyond what’s expected.
 
 My work spans from laser-based communication systems to custom PCBs made of glass, from gesture-controlled robots to cryogenic digital boards.  
