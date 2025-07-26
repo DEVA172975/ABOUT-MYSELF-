@@ -40,7 +40,7 @@ I don’t believe in distractions — I believe in *disruptions*.
 Every hour I spend building goes toward ideas that can shift how we think about energy, data, machines, and interfaces.
 
 I’m not here to build “cool projects.”  
-I’m here to build *what comes next*.
+I’m here to bring  *my imaginations into realities *.
 
 ---
 
